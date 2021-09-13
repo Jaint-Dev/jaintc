@@ -1,4 +1,4 @@
-## Olá, sou o Jean
+## Olá, sou o Jean!
 
 <div>
   <a href="https://github.com/jaintc">
