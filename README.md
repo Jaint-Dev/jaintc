@@ -2,11 +2,11 @@
 
 <div>
   <a href="https://github.com/jaintc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaintc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaintc&langs_count=7&theme=dracula"/>
- </div>
-    
-## Linguagens que utilizo :
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jaintc&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaintc&theme=midnight-purple&layout=compact"/>
+<div>
+
+  ## Linguagens que utilizo :
     
     
 
