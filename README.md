@@ -17,11 +17,12 @@
   </div>
   
  ##
- ##
- ##
-
- <div style="display: inline_block"><br>
- <img align="center" alt="Jean-Karthus" height="370" width="444" src="https://cdn.discordapp.com/attachments/733782835067879487/886918149348409364/karthus.gif">
- </div>
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaintc&theme=midnight-purple&repo=grimd-youtubedl)](https://github.com/jaintc/grimd-youtubedl)
   
-  #### "Agonia, Êxtase, Paz. Cada passagem tem sua própia beleza!" 
+ ##
+ ##
+  <div style="display: inline_block"><br>
+ <img align="center" alt="Jean-Karthus" height="244" width="200" src="https://cdn.discordapp.com/attachments/733782835067879487/888250943093735424/ezgif.com-gif-maker_4.gif">
+ </div>
+ 
+  ##### "Agonia, Êxtase, Paz. Cada passagem tem sua própia beleza!" 
